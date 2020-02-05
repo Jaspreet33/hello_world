@@ -1,4 +1,3 @@
 # hello_world
 
-Hi it is great learning git from this guide.
-=======
+Hey! I am learning git. It is fun and interesting learning git via this guide. 
